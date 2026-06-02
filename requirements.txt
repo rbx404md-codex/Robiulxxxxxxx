@@ -7,7 +7,6 @@ requests==2.31.0
 beautifulsoup4==4.12.2
 pyromod==2.0.0
 pyrogram==2.0.106
-beautifulsoup4==4.12.2
 stripe==7.10.0
 cryptography==41.0.7
 lxml==5.2.2
